@@ -1,0 +1,8 @@
+langchain>=0.3.7
+langchain-groq>=0.2.1
+langchain-core>=0.3.15
+langchain-classic>=0.3.0
+python-dotenv>=1.0.1
+requests>=2.32.3
+rich>=13.9.4
+streamlit>=1.39.0
